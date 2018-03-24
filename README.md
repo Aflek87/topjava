@@ -1,4 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e27c6c24dc14cdca40174216c3e84fe)](https://www.codacy.com/app/Aflek87/topjava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aflek87/topjava&amp;utm_campaign=Badge_Grade)
+[![Dependency Status](https://www.versioneye.com/user/projects/5ab64ebf0fb24f4489395c1a/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5ab64ebf0fb24f4489395c1a)
+https://travis-ci.org/Aflek87/topjava.svg?branch=master
 
 Java Enterprise Online Project 
 ===============================
