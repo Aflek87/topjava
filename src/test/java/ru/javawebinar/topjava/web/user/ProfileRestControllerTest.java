@@ -30,7 +30,7 @@ public class ProfileRestControllerTest extends AbstractControllerTest {
     @Test
     public void testDelete() throws Exception {
         mockMvc.perform(delete(REST_URL))
-                .andExpect(status().isOk());
+                .andExpect(status().is2xxSuccessful());
         assertMatch(userService.getAll(), ADMIN);
     }
 
