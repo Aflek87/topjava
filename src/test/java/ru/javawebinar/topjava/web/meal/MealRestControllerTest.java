@@ -39,7 +39,7 @@ public class MealRestControllerTest extends AbstractControllerTest {
     public void testDelete() throws Exception {
         mockMvc.perform(delete(REST_URL + MEAL1_ID))
                 .andDo(print())
-                .andExpect(status().is2xxSuccessful());
+                .andExpect(status().isNoContent());
     }
 
     @Test
